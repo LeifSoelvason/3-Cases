@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a6307c8-f29e-422a-96a1-8014694a5477": {
+      "ProjectGuid": "3a6307c8-f29e-422a-96a1-8014694a5477",
+      "DisplayName": "Project_ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "6caeed31-df3b-476e-9548-35d205b13885": {
+      "ProjectGuid": "6caeed31-df3b-476e-9548-35d205b13885",
+      "DisplayName": "Project2_ClassLibrary1",
+      "ColorIndex": 1
+    },
+    "a81fd941-aff2-4bc3-935a-dc5c2815ffe5": {
+      "ProjectGuid": "a81fd941-aff2-4bc3-935a-dc5c2815ffe5",
+      "DisplayName": "Project3_WindowsFormsApp1",
+      "ColorIndex": 2
+    },
+    "e2d8fa4f-5768-42d5-9ae3-cb25b2646a5d": {
+      "ProjectGuid": "e2d8fa4f-5768-42d5-9ae3-cb25b2646a5d",
+      "DisplayName": "Project4_UnitTestProject1",
+      "ColorIndex": 3
+    },
+    "5807bb58-8258-4656-ada9-5348f8b7b653": {
+      "ProjectGuid": "5807bb58-8258-4656-ada9-5348f8b7b653",
+      "DisplayName": "Project3 WinForm",
+      "ColorIndex": 4
+    },
+    "cd1fa93a-c8d8-4c4d-8a25-e01b710210a3": {
+      "ProjectGuid": "cd1fa93a-c8d8-4c4d-8a25-e01b710210a3",
+      "DisplayName": "Project3 WinForm",
+      "ColorIndex": 5
+    },
+    "02ad9768-4cdb-4c78-8608-f4f3e506cc60": {
+      "ProjectGuid": "02ad9768-4cdb-4c78-8608-f4f3e506cc60",
+      "DisplayName": "Project3 WindowsForms",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}

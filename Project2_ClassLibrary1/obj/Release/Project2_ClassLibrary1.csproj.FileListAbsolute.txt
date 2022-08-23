@@ -1,0 +1,18 @@
+C:\Users\leisol\Desktop\3 Cases - Test\Project2_ClassLibrary1\bin\Release\Project2_ClassLibrary1.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project2_ClassLibrary1\bin\Release\Project2_ClassLibrary1.pdb
+C:\Users\leisol\Desktop\3 Cases - Test\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\leisol\Desktop\3 Cases - Test\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\leisol\Desktop\3 Cases - Test\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.pdb
+C:\Users\LeifS\Desktop\Latest Version\3 Cases - Test\Project2_ClassLibrary1\bin\Release\Project2_ClassLibrary1.dll
+C:\Users\LeifS\Desktop\Latest Version\3 Cases - Test\Project2_ClassLibrary1\bin\Release\Project2_ClassLibrary1.pdb
+C:\Users\LeifS\Desktop\Latest Version\3 Cases - Test\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\LeifS\Desktop\Latest Version\3 Cases - Test\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\LeifS\Desktop\Latest Version\3 Cases - Test\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.dll
+C:\Users\LeifS\Desktop\Latest Version\3 Cases - Test\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.pdb
+E:\3 Cases\Project2_ClassLibrary1\bin\Release\Project2_ClassLibrary1.dll
+E:\3 Cases\Project2_ClassLibrary1\bin\Release\Project2_ClassLibrary1.pdb
+E:\3 Cases\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.csproj.AssemblyReference.cache
+E:\3 Cases\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\3 Cases\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.dll
+E:\3 Cases\Project2_ClassLibrary1\obj\Release\Project2_ClassLibrary1.pdb

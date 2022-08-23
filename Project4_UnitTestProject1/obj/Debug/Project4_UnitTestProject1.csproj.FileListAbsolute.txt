@@ -1,0 +1,47 @@
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Project4_UnitTestProject1.dll
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Project4_UnitTestProject1.pdb
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.csproj.CopyComplete
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.dll
+C:\Users\leisol\Desktop\Projects\Diverse\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.pdb
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Project4_UnitTestProject1.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Project4_UnitTestProject1.pdb
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.csproj.CopyComplete
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.dll
+C:\Users\leisol\Desktop\3 Cases - Test\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.pdb
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\nunit.engine.dll
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\nunit.engine.api.dll
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\nunit.engine.core.dll
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\Project4_UnitTestProject1.dll
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\Project4_UnitTestProject1.pdb
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\Project2_ClassLibrary1.dll
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\Project2_ClassLibrary1.pdb
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.csproj.CopyComplete
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.dll
+C:\Users\leisol\Desktop\3 cases\Project4_UnitTestProject1\obj\Debug\Project4_UnitTestProject1.pdb
